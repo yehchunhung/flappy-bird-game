@@ -1,5 +1,7 @@
 # flappy-bird-game
 
+Use SFML libraries to build this classic game example in C++.
+
 ## Table of Contents
 
 1. [Implementation](#implementation)
